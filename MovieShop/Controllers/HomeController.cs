@@ -3,7 +3,7 @@ using ApplicationCore.Contracts.Services;
 using ApplicationCore.Entities;
 using Infrastructure.Services;
 using Microsoft.AspNetCore.Mvc;
-using MVC.Models;
+using MovieShop.Models;
 
 namespace MovieShop.Controllers
 {

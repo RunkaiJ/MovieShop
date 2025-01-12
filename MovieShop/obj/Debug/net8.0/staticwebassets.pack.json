@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVC.bundle.scp.css",
-      "PackagePath": "staticwebassets\\MVC.nk8e3srjs6.bundle.scp.css"
+      "Id": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MovieShop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MovieShop.y1rjeapg19.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\wwwroot\\css\\site.css",
@@ -245,24 +245,24 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MovieShop.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MovieShop.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MVC.props",
-      "PackagePath": "build\\MVC.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MovieShop.props",
+      "PackagePath": "build\\MovieShop.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MVC.props",
-      "PackagePath": "buildMultiTargeting\\MVC.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MovieShop.props",
+      "PackagePath": "buildMultiTargeting\\MovieShop.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MVC.props",
-      "PackagePath": "buildTransitive\\MVC.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MovieShop.props",
+      "PackagePath": "buildTransitive\\MovieShop.props"
     }
   ],
   "ElementsToRemove": []

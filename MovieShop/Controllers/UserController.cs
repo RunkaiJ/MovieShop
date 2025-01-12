@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace MVC.Controllers
+namespace MovieShop.Controllers
 {
     public class UserController : Controller
     {

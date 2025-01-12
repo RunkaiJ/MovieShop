@@ -2,9 +2,9 @@
 using ApplicationCore.Entities;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
-using MVC.Models;
+using MovieShop.Models;
 
-namespace MVC.Controllers
+namespace MovieShop.Controllers
 {
     public class MovieController : Controller
     {

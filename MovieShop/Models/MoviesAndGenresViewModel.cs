@@ -1,6 +1,6 @@
 ﻿using ApplicationCore.Entities;
 
-namespace MVC.Models
+namespace MovieShop.Models
 {
     public class MoviesAndGenresViewModel
     {

@@ -4780,9 +4780,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\MVC.csproj",
-      "projectName": "MVC",
-      "projectPath": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\MVC.csproj",
+      "projectUniqueName": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\MovieShop.csproj",
+      "projectName": "MovieShop",
+      "projectPath": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\MovieShop.csproj",
       "packagesPath": "C:\\Users\\runka\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\obj\\",
       "projectStyle": "PackageReference",
