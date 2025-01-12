@@ -1,0 +1,802 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6607C2A9-20E5-441D-AA40-9E06CC63E7AF}|MovieShop\\MVC.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\movieshop\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6607C2A9-20E5-441D-AA40-9E06CC63E7AF}|MovieShop\\MVC.csproj|solutionrelative:movieshop\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6607C2A9-20E5-441D-AA40-9E06CC63E7AF}|MovieShop\\MVC.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\movieshop\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6607C2A9-20E5-441D-AA40-9E06CC63E7AF}|MovieShop\\MVC.csproj|solutionrelative:movieshop\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6607C2A9-20E5-441D-AA40-9E06CC63E7AF}|MovieShop\\MVC.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\movieshop\\views\\shared\\_moviecard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6607C2A9-20E5-441D-AA40-9E06CC63E7AF}|MovieShop\\MVC.csproj|solutionrelative:movieshop\\views\\shared\\_moviecard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\applicationcore\\entities\\cast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\entities\\cast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6607C2A9-20E5-441D-AA40-9E06CC63E7AF}|MovieShop\\MVC.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\movieshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6607C2A9-20E5-441D-AA40-9E06CC63E7AF}|MovieShop\\MVC.csproj|solutionrelative:movieshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6607C2A9-20E5-441D-AA40-9E06CC63E7AF}|MovieShop\\MVC.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\movieshop\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6607C2A9-20E5-441D-AA40-9E06CC63E7AF}|MovieShop\\MVC.csproj|solutionrelative:movieshop\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6607C2A9-20E5-441D-AA40-9E06CC63E7AF}|MovieShop\\MVC.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\movieshop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6607C2A9-20E5-441D-AA40-9E06CC63E7AF}|MovieShop\\MVC.csproj|solutionrelative:movieshop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6607C2A9-20E5-441D-AA40-9E06CC63E7AF}|MovieShop\\MVC.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\movieshop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6607C2A9-20E5-441D-AA40-9E06CC63E7AF}|MovieShop\\MVC.csproj|solutionrelative:movieshop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6607C2A9-20E5-441D-AA40-9E06CC63E7AF}|MovieShop\\MVC.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\movieshop\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6607C2A9-20E5-441D-AA40-9E06CC63E7AF}|MovieShop\\MVC.csproj|solutionrelative:movieshop\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6607C2A9-20E5-441D-AA40-9E06CC63E7AF}|MovieShop\\MVC.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\movieshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6607C2A9-20E5-441D-AA40-9E06CC63E7AF}|MovieShop\\MVC.csproj|solutionrelative:movieshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6607C2A9-20E5-441D-AA40-9E06CC63E7AF}|MovieShop\\MVC.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\movieshop\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6607C2A9-20E5-441D-AA40-9E06CC63E7AF}|MovieShop\\MVC.csproj|solutionrelative:movieshop\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6607C2A9-20E5-441D-AA40-9E06CC63E7AF}|MovieShop\\MVC.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\movieshop\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6607C2A9-20E5-441D-AA40-9E06CC63E7AF}|MovieShop\\MVC.csproj|solutionrelative:movieshop\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6607C2A9-20E5-441D-AA40-9E06CC63E7AF}|MovieShop\\MVC.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\movieshop\\models\\moviecardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6607C2A9-20E5-441D-AA40-9E06CC63E7AF}|MovieShop\\MVC.csproj|solutionrelative:movieshop\\models\\moviecardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\applicationcore\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6607C2A9-20E5-441D-AA40-9E06CC63E7AF}|MovieShop\\MVC.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\movieshop\\models\\moviesandgenresviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6607C2A9-20E5-441D-AA40-9E06CC63E7AF}|MovieShop\\MVC.csproj|solutionrelative:movieshop\\models\\moviesandgenresviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D27AB5C-0EB7-4B80-A2D2-FBFEE4E96C6B}|Infrastructure\\Infrastructure.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\infrastructure\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D27AB5C-0EB7-4B80-A2D2-FBFEE4E96C6B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D27AB5C-0EB7-4B80-A2D2-FBFEE4E96C6B}|Infrastructure\\Infrastructure.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\infrastructure\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D27AB5C-0EB7-4B80-A2D2-FBFEE4E96C6B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\applicationcore\\contracts\\services\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\contracts\\services\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\applicationcore\\contracts\\services\\igenreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\contracts\\services\\igenreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\applicationcore\\contracts\\repositories\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\contracts\\repositories\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D27AB5C-0EB7-4B80-A2D2-FBFEE4E96C6B}|Infrastructure\\Infrastructure.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D27AB5C-0EB7-4B80-A2D2-FBFEE4E96C6B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D27AB5C-0EB7-4B80-A2D2-FBFEE4E96C6B}|Infrastructure\\Infrastructure.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\infrastructure\\services\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D27AB5C-0EB7-4B80-A2D2-FBFEE4E96C6B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\applicationcore\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\applicationcore\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\applicationcore\\entities\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\entities\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\applicationcore\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\applicationcore\\entities\\moviecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\entities\\moviecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\applicationcore\\entities\\trailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\entities\\trailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\applicationcore\\entities\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\entities\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\applicationcore\\contracts\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\contracts\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D27AB5C-0EB7-4B80-A2D2-FBFEE4E96C6B}|Infrastructure\\Infrastructure.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\infrastructure\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D27AB5C-0EB7-4B80-A2D2-FBFEE4E96C6B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D27AB5C-0EB7-4B80-A2D2-FBFEE4E96C6B}|Infrastructure\\Infrastructure.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\infrastructure\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D27AB5C-0EB7-4B80-A2D2-FBFEE4E96C6B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\applicationcore\\contracts\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\contracts\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6607C2A9-20E5-441D-AA40-9E06CC63E7AF}|MovieShop\\MVC.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\movieshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6607C2A9-20E5-441D-AA40-9E06CC63E7AF}|MovieShop\\MVC.csproj|solutionrelative:movieshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6607C2A9-20E5-441D-AA40-9E06CC63E7AF}|MovieShop\\MVC.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\movieshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6607C2A9-20E5-441D-AA40-9E06CC63E7AF}|MovieShop\\MVC.csproj|solutionrelative:movieshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\applicationcore\\contracts\\repositories\\igenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\contracts\\repositories\\igenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D27AB5C-0EB7-4B80-A2D2-FBFEE4E96C6B}|Infrastructure\\Infrastructure.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\infrastructure\\repositories\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D27AB5C-0EB7-4B80-A2D2-FBFEE4E96C6B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\applicationcore\\contracts\\repositories\\ipurchaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\contracts\\repositories\\ipurchaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6607C2A9-20E5-441D-AA40-9E06CC63E7AF}|MovieShop\\MVC.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\movieshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6607C2A9-20E5-441D-AA40-9E06CC63E7AF}|MovieShop\\MVC.csproj|solutionrelative:movieshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\applicationcore\\contracts\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\contracts\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\applicationcore\\contracts\\services\\icastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\contracts\\services\\icastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\applicationcore\\contracts\\services\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\contracts\\services\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\applicationcore\\contracts\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\contracts\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\applicationcore\\contracts\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\contracts\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\applicationcore\\contracts\\repositories\\ireportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\contracts\\repositories\\ireportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\runka\\onedrive\\desktop\\movieshop\\applicationcore\\contracts\\repositories\\icastrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEA0DF5-39EF-4042-A125-9BCEBE9DD4A3}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\contracts\\repositories\\icastrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "MovieShop\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "MovieShop\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T02:19:59.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MovieShop\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MovieShop\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T23:25:19.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cast.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Entities\\Cast.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Entities\\Cast.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Entities\\Cast.cs",
+              "RelativeToolTip": "ApplicationCore\\Entities\\Cast.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T23:38:15.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\Views\\Movie\\Index.cshtml",
+              "RelativeDocumentMoniker": "MovieShop\\Views\\Movie\\Index.cshtml",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\Views\\Movie\\Index.cshtml",
+              "RelativeToolTip": "MovieShop\\Views\\Movie\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T09:03:52.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_MovieCard.cshtml",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\Views\\Shared\\_MovieCard.cshtml",
+              "RelativeDocumentMoniker": "MovieShop\\Views\\Shared\\_MovieCard.cshtml",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\Views\\Shared\\_MovieCard.cshtml",
+              "RelativeToolTip": "MovieShop\\Views\\Shared\\_MovieCard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T02:11:27.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "MovieShop\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\Views\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "MovieShop\\Views\\Shared\\_Header.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T23:27:15.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MovieShop\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MovieShop\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T02:18:57.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MovieShop\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MovieShop\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T02:20:25.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "MovieShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "MovieShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T02:19:58.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MovieShop\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MovieShop\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T18:43:00.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MovieShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MovieShop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T23:28:12.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "MovieShop\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "MovieShop\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T08:31:54.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MovieCardModel.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\Models\\MovieCardModel.cs",
+              "RelativeDocumentMoniker": "MovieShop\\Models\\MovieCardModel.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\Models\\MovieCardModel.cs",
+              "RelativeToolTip": "MovieShop\\Models\\MovieCardModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T02:13:02.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Entities\\Movie.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Entities\\Movie.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Entities\\Movie.cs",
+              "RelativeToolTip": "ApplicationCore\\Entities\\Movie.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA9wCMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T02:13:40.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MoviesAndGenresViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\Models\\MoviesAndGenresViewModel.cs",
+              "RelativeDocumentMoniker": "MovieShop\\Models\\MoviesAndGenresViewModel.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\Models\\MoviesAndGenresViewModel.cs",
+              "RelativeToolTip": "MovieShop\\Models\\MoviesAndGenresViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T06:48:03.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\Infrastructure\\Repositories\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\MovieRepository.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\Infrastructure\\Repositories\\MovieRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\MovieRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T00:40:24.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\Infrastructure\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\MovieService.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\Infrastructure\\Services\\MovieService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\MovieService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T00:42:18.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Contracts\\Services\\IMovieService.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Services\\IMovieService.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Contracts\\Services\\IMovieService.cs",
+              "RelativeToolTip": "ApplicationCore\\Contracts\\Services\\IMovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T23:38:03.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IGenreService.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Contracts\\Services\\IGenreService.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Services\\IGenreService.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Contracts\\Services\\IGenreService.cs",
+              "RelativeToolTip": "ApplicationCore\\Contracts\\Services\\IGenreService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T23:38:00.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Contracts\\Repositories\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Repositories\\IMovieRepository.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Contracts\\Repositories\\IMovieRepository.cs",
+              "RelativeToolTip": "ApplicationCore\\Contracts\\Repositories\\IMovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T23:31:10.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T01:49:15.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GenreService.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\Infrastructure\\Services\\GenreService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\GenreService.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\Infrastructure\\Services\\GenreService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\GenreService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T04:51:03.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Entities\\Review.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Entities\\Review.cs",
+              "RelativeToolTip": "ApplicationCore\\Entities\\Review.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T01:38:41.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Entities\\Genre.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Entities\\Genre.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Entities\\Genre.cs",
+              "RelativeToolTip": "ApplicationCore\\Entities\\Genre.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T01:22:52.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MovieCast.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Entities\\MovieCast.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Entities\\MovieCast.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Entities\\MovieCast.cs",
+              "RelativeToolTip": "ApplicationCore\\Entities\\MovieCast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T01:37:45.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Trailer.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Entities\\Trailer.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Entities\\Trailer.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Entities\\Trailer.cs",
+              "RelativeToolTip": "ApplicationCore\\Entities\\Trailer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T01:38:17.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Purchase.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Entities\\Purchase.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Entities\\Purchase.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Entities\\Purchase.cs",
+              "RelativeToolTip": "ApplicationCore\\Entities\\Purchase.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T01:38:35.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Entities\\User.cs",
+              "RelativeToolTip": "ApplicationCore\\Entities\\User.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T01:39:13.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Entities\\Role.cs",
+              "RelativeToolTip": "ApplicationCore\\Entities\\Role.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T01:39:33.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\Infrastructure\\Services\\BaseService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\BaseService.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\Infrastructure\\Services\\BaseService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\BaseService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwBsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T01:30:26.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\Infrastructure\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\Infrastructure\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\BaseRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T23:30:03.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Contracts\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Contracts\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "ApplicationCore\\Contracts\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T23:30:59.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Contracts\\Services\\IService.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Services\\IService.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Contracts\\Services\\IService.cs",
+              "RelativeToolTip": "ApplicationCore\\Contracts\\Services\\IService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T23:38:07.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MovieShop\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MovieShop\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T06:56:14.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\Program.cs",
+              "RelativeDocumentMoniker": "MovieShop\\Program.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\Program.cs",
+              "RelativeToolTip": "MovieShop\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T02:50:41.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IGenreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Contracts\\Repositories\\IGenreRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Repositories\\IGenreRepository.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Contracts\\Repositories\\IGenreRepository.cs",
+              "RelativeToolTip": "ApplicationCore\\Contracts\\Repositories\\IGenreRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T03:58:54.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GenreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\Infrastructure\\Repositories\\GenreRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\GenreRepository.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\Infrastructure\\Repositories\\GenreRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\GenreRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T04:37:49.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IPurchaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Contracts\\Repositories\\IPurchaseRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Repositories\\IPurchaseRepository.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Contracts\\Repositories\\IPurchaseRepository.cs",
+              "RelativeToolTip": "ApplicationCore\\Contracts\\Repositories\\IPurchaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T23:31:17.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\appsettings.json",
+              "RelativeDocumentMoniker": "MovieShop\\appsettings.json",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\appsettings.json",
+              "RelativeToolTip": "MovieShop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-11T02:56:55.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Contracts\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Contracts\\Services\\IUserService.cs",
+              "RelativeToolTip": "ApplicationCore\\Contracts\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T23:38:11.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ICastService.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Contracts\\Services\\ICastService.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Services\\ICastService.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Contracts\\Services\\ICastService.cs",
+              "RelativeToolTip": "ApplicationCore\\Contracts\\Services\\ICastService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T23:37:57.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Contracts\\Services\\IAdminService.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Services\\IAdminService.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Contracts\\Services\\IAdminService.cs",
+              "RelativeToolTip": "ApplicationCore\\Contracts\\Services\\IAdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T23:37:53.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Contracts\\Services\\IAccountService.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Services\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Contracts\\Services\\IAccountService.cs",
+              "RelativeToolTip": "ApplicationCore\\Contracts\\Services\\IAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T23:37:44.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Contracts\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Contracts\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "ApplicationCore\\Contracts\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T23:31:24.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IReportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Contracts\\Repositories\\IReportRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Repositories\\IReportRepository.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Contracts\\Repositories\\IReportRepository.cs",
+              "RelativeToolTip": "ApplicationCore\\Contracts\\Repositories\\IReportRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T23:31:19.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ICastRepository.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Contracts\\Repositories\\ICastRepository.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Contracts\\Repositories\\ICastRepository.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\ApplicationCore\\Contracts\\Repositories\\ICastRepository.cs",
+              "RelativeToolTip": "ApplicationCore\\Contracts\\Repositories\\ICastRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T23:31:06.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
