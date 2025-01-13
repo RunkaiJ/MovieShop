@@ -25,7 +25,6 @@ namespace ApplicationCore.DTOs
         public IEnumerable<MovieCastDto> Casts { get; set; }
         public IEnumerable<TrailerDto> Trailers { get; set; }
 
-        // Additional fields for completeness
         public string OriginalLanguage { get; set; }
         public string CreatedBy { get; set; }
         public DateTime? CreatedDate { get; set; }

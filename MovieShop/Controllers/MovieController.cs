@@ -51,6 +51,7 @@ namespace MovieShop.Controllers
                 Tagline = movieDetailsDto.Tagline,
                 PosterUrl = movieDetailsDto.PosterUrl,
                 BackdropUrl = movieDetailsDto.BackdropUrl,
+                Price = movieDetailsDto.Price,
                 Budget = movieDetailsDto.Budget,
                 Revenue = movieDetailsDto.Revenue,
                 RunTime = movieDetailsDto.RunTime,
