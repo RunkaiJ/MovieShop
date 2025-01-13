@@ -11,9 +11,9 @@ namespace Infrastructure.Repositories
 {
     public class BaseRepository<T> : IRepository<T> where T : class
     {
-        protected readonly MovieDbContext _context;
+        protected readonly MovieShopDbContext _context;
 
-        public BaseRepository(MovieDbContext context) {
+        public BaseRepository(MovieShopDbContext context) {
             _context = context;
         }
         public int Delete(int id)
@@ -30,7 +30,7 @@ namespace Infrastructure.Repositories
             return _context.Set<T>().ToList();
         }
 
-        public T GetById(int id)
+        public virtual T GetById(int id)
         {
             return _context.Set<T>().Find(id);
         }

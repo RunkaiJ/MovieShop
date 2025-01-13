@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "e5kPf1TQdI1zSjChCWgwd6Yloih27uSSNtFqg2+XGWw=",
+  "Hash": "rBWG+4szbDOsd1l2XZ9syap6Qk7CWYqngKp5Lzq8nsQ=",
   "Source": "MovieShop",
   "BasePath": "_content/MovieShop",
   "Mode": "Default",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "y1rjeapg19",
-      "Integrity": "Siov3VsIe7yFOdsnhQxK/pP97b4kti7vZBN082/onIw=",
+      "Fingerprint": "9od3wugw39",
+      "Integrity": "+b9FpsMuHWMhRm9FwBF4JATpBOy6fj1RHn8LiiTKpbQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MovieShop.styles.css"
@@ -52,11 +52,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "y1rjeapg19",
-      "Integrity": "Siov3VsIe7yFOdsnhQxK/pP97b4kti7vZBN082/onIw=",
+      "Fingerprint": "9od3wugw39",
+      "Integrity": "+b9FpsMuHWMhRm9FwBF4JATpBOy6fj1RHn8LiiTKpbQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MovieShop.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\wwwroot\\css\\general.css",
+      "SourceId": "MovieShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\wwwroot\\",
+      "BasePath": "_content/MovieShop",
+      "RelativePath": "css/general#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qzyl0ic0sy",
+      "Integrity": "ZuzXTSc29Jkri2SLBR5OKafpBpFhwXQtFDJQGnSKYvc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\general.css"
     },
     {
       "Identity": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\wwwroot\\css\\site.css",
@@ -73,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "Fingerprint": "n3cvvsk3k4",
+      "Integrity": "/UHZ0JUcp4/Rj2/fYL3wJUY30ZD6adrJfONEz5dDBYc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1321,8 +1342,8 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\wwwroot\\css\\site.css",
+      "Route": "css/general.css",
+      "AssetFile": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\wwwroot\\css\\general.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1331,7 +1352,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "156"
         },
         {
           "Name": "Content-Type",
@@ -1339,11 +1360,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"ZuzXTSc29Jkri2SLBR5OKafpBpFhwXQtFDJQGnSKYvc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 07:56:50 GMT"
+          "Value": "Mon, 13 Jan 2025 06:12:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZuzXTSc29Jkri2SLBR5OKafpBpFhwXQtFDJQGnSKYvc="
+        }
+      ]
+    },
+    {
+      "Route": "css/general.qzyl0ic0sy.css",
+      "AssetFile": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\wwwroot\\css\\general.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "156"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZuzXTSc29Jkri2SLBR5OKafpBpFhwXQtFDJQGnSKYvc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 13 Jan 2025 06:12:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1353,15 +1411,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
+          "Value": "qzyl0ic0sy"
         },
         {
           "Name": "label",
-          "Value": "css/site.css"
+          "Value": "css/general.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-ZuzXTSc29Jkri2SLBR5OKafpBpFhwXQtFDJQGnSKYvc="
         }
       ]
     },
@@ -1376,7 +1434,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "448"
         },
         {
           "Name": "Content-Type",
@@ -1384,11 +1442,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"/UHZ0JUcp4/Rj2/fYL3wJUY30ZD6adrJfONEz5dDBYc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 07:56:50 GMT"
+          "Value": "Mon, 13 Jan 2025 06:01:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1398,7 +1456,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-/UHZ0JUcp4/Rj2/fYL3wJUY30ZD6adrJfONEz5dDBYc="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.n3cvvsk3k4.css",
+      "AssetFile": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "448"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/UHZ0JUcp4/Rj2/fYL3wJUY30ZD6adrJfONEz5dDBYc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 13 Jan 2025 06:01:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n3cvvsk3k4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/UHZ0JUcp4/Rj2/fYL3wJUY30ZD6adrJfONEz5dDBYc="
         }
       ]
     },
@@ -6241,6 +6344,96 @@
       ]
     },
     {
+      "Route": "MovieShop.9od3wugw39.bundle.scp.css",
+      "AssetFile": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MovieShop.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1127"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+b9FpsMuHWMhRm9FwBF4JATpBOy6fj1RHn8LiiTKpbQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 13 Jan 2025 06:03:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9od3wugw39"
+        },
+        {
+          "Name": "label",
+          "Value": "MovieShop.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+b9FpsMuHWMhRm9FwBF4JATpBOy6fj1RHn8LiiTKpbQ="
+        }
+      ]
+    },
+    {
+      "Route": "MovieShop.9od3wugw39.styles.css",
+      "AssetFile": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MovieShop.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1127"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+b9FpsMuHWMhRm9FwBF4JATpBOy6fj1RHn8LiiTKpbQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 13 Jan 2025 06:03:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9od3wugw39"
+        },
+        {
+          "Name": "label",
+          "Value": "MovieShop.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+b9FpsMuHWMhRm9FwBF4JATpBOy6fj1RHn8LiiTKpbQ="
+        }
+      ]
+    },
+    {
       "Route": "MovieShop.bundle.scp.css",
       "AssetFile": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MovieShop.bundle.scp.css",
       "Selectors": [],
@@ -6259,11 +6452,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Siov3VsIe7yFOdsnhQxK/pP97b4kti7vZBN082/onIw=\""
+          "Value": "\"+b9FpsMuHWMhRm9FwBF4JATpBOy6fj1RHn8LiiTKpbQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 02:48:31 GMT"
+          "Value": "Mon, 13 Jan 2025 06:03:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6273,7 +6466,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Siov3VsIe7yFOdsnhQxK/pP97b4kti7vZBN082/onIw="
+          "Value": "sha256-+b9FpsMuHWMhRm9FwBF4JATpBOy6fj1RHn8LiiTKpbQ="
         }
       ]
     },
@@ -6296,11 +6489,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Siov3VsIe7yFOdsnhQxK/pP97b4kti7vZBN082/onIw=\""
+          "Value": "\"+b9FpsMuHWMhRm9FwBF4JATpBOy6fj1RHn8LiiTKpbQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 02:48:31 GMT"
+          "Value": "Mon, 13 Jan 2025 06:03:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6310,97 +6503,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Siov3VsIe7yFOdsnhQxK/pP97b4kti7vZBN082/onIw="
-        }
-      ]
-    },
-    {
-      "Route": "MovieShop.y1rjeapg19.bundle.scp.css",
-      "AssetFile": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MovieShop.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1127"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Siov3VsIe7yFOdsnhQxK/pP97b4kti7vZBN082/onIw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 02:48:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "y1rjeapg19"
-        },
-        {
-          "Name": "label",
-          "Value": "MovieShop.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Siov3VsIe7yFOdsnhQxK/pP97b4kti7vZBN082/onIw="
-        }
-      ]
-    },
-    {
-      "Route": "MovieShop.y1rjeapg19.styles.css",
-      "AssetFile": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MovieShop.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1127"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Siov3VsIe7yFOdsnhQxK/pP97b4kti7vZBN082/onIw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 12 Jan 2025 02:48:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "y1rjeapg19"
-        },
-        {
-          "Name": "label",
-          "Value": "MovieShop.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Siov3VsIe7yFOdsnhQxK/pP97b4kti7vZBN082/onIw="
+          "Value": "sha256-+b9FpsMuHWMhRm9FwBF4JATpBOy6fj1RHn8LiiTKpbQ="
         }
       ]
     }

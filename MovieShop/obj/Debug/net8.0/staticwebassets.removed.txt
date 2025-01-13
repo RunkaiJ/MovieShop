@@ -1,0 +1,3 @@
+C:\Users\runka\OneDrive\Desktop\MovieShop\MovieShop\wwwroot\css\cast_details.css
+C:\Users\runka\OneDrive\Desktop\MovieShop\MovieShop\wwwroot\css\movie.css
+C:\Users\runka\OneDrive\Desktop\MovieShop\MovieShop\wwwroot\css\movie_details.css

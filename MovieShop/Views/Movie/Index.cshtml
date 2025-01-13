@@ -1,17 +1,13 @@
 ﻿@model MoviesAndGenresViewModel
 @{
     ViewData["Title"] = "Home Page";
-    var partialModel = new MoviesAndGenresViewModel
-            {
-                Genres = Model.Genres,
-                SelectedGenreId = Model.SelectedGenreId
-            };
+    ViewBag.Genres = Model.Genres;
+    ViewBag.SelectedGenreId = Model.SelectedGenreId;
     int startPage = Model.CurrentPage - 5 >= 1 ? Model.CurrentPage - 5 : 1;
     int endPage = Model.CurrentPage + 5 <= Model.TotalPage ? Model.CurrentPage + 5 : Model.TotalPage;
 }
 
-<partial name="_Header" model="partialModel" />
-
+<div class="container">
 @if (Model.Movies != null)
 {
     <div class="row">
@@ -20,7 +16,8 @@
             var movieModel = new MovieCardModel
             {
                 Id = movie.Id,
-                PosterUrl = movie.PosterUrl
+                PosterUrl = movie.PosterUrl,
+                Title = movie.Title
             };
             <partial name="_MovieCard" model="movieModel" />
         }
@@ -47,6 +44,7 @@
         
     </ul>
 </nav>
+</div>
 
 
 

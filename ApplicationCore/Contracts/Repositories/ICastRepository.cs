@@ -3,10 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ApplicationCore.Entities;
 
 namespace ApplicationCore.Contracts.Repositories
 {
-    public interface ICastRepository
+    public interface ICastRepository : IRepository<Cast>
     {
+        Cast GetById(int id);
     }
 }

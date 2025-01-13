@@ -11,5 +11,8 @@ namespace ApplicationCore.Contracts.Repositories
     {
         public IEnumerable<Movie> GetPagedByGenre(int page, int pageSize, int selectedGenreId);
         public IEnumerable<Movie> GetPaged(int page, int pageSize);
+        public Movie GetMovieById(int movieId);
+        public IEnumerable<Movie> GetHighestGrossingMovies();
+    
     }
 }

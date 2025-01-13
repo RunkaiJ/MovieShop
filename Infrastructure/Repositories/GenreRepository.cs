@@ -11,7 +11,7 @@ namespace Infrastructure.Repositories
 {
     public class GenreRepository : BaseRepository<Genre>, IGenreRepository
     {
-        public GenreRepository(MovieDbContext context) : base(context)
+        public GenreRepository(MovieShopDbContext context) : base(context)
         {
 
         }

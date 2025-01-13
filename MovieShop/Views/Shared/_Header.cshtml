@@ -1,4 +1,7 @@
-﻿@model MoviesAndGenresViewModel
+﻿@{
+    IEnumerable<Genre> genres = ViewBag.Genres;
+    var selectedId = ViewBag.SelectedId;
+}
 
 <header>
     <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
@@ -7,14 +10,14 @@
 
             <div class="dropdown">
                 <a class="btn btn-light dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                    @(Model.Genres?.FirstOrDefault(g => g.Id == Model.SelectedGenreId)?.Name ?? "Select a Genre" )
+                    @(genres?.FirstOrDefault(g => g.Id == selectedId)?.Name ?? "Select a Genre")
                 </a>
 
                 <ul class="dropdown-menu">
                     <li><a class="dropdown-item" asp-action="Index" asp-controller="Movie" asp-route-selectedGenreId="-1">Show All</a></li>
-                    @if (Model.Genres != null)
+                    @if (genres != null)
                     {
-                        @foreach (var genre in Model.Genres)
+                        @foreach (var genre in genres)
                         {
                             <li><a class="dropdown-item" asp-action="Index" asp-controller="Movie" asp-route-selectedGenreId="@genre.Id">@genre.Name</a></li>
                         }

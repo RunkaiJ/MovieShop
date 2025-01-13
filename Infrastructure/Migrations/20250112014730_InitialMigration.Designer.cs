@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace Infrastructure.Migrations
 {
-    [DbContext(typeof(MovieDbContext))]
+    [DbContext(typeof(MovieShopDbContext))]
     [Migration("20250112014730_InitialMigration")]
     partial class InitialMigration
     {

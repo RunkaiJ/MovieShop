@@ -8,9 +8,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Infrastructure.Data
 {
-    public class MovieDbContext : DbContext
+    public class MovieShopDbContext : DbContext
     {
-        public MovieDbContext(DbContextOptions<MovieDbContext> context) : base(context) { }
+        public MovieShopDbContext(DbContextOptions<MovieShopDbContext> context) : base(context) { }
 
         public DbSet<Movie> Movies { get; set; }
         public DbSet<Genre> Genres { get; set; }

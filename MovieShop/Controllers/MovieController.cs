@@ -8,40 +8,72 @@ namespace MovieShop.Controllers
 {
     public class MovieController : Controller
     {
-        private readonly IGenreService _genreService;
         private readonly IMovieService _movieService;
 
-        public MovieController(IMovieService movieService, IGenreService genreService)
+        public MovieController(IMovieService movieService)
         {
             _movieService = movieService;
-            _genreService = genreService;
         }
 
-        public IActionResult Index(int page = 1, int pageSize = 32, int selectedGenreId = -1)
+        public IActionResult Index(int page = 1, int pageSize = 30, int selectedGenreId = -1)
         {
-            IEnumerable<Movie> movies;
+            var modelDto = _movieService.GetMoviesAndGenresDto(page, pageSize, selectedGenreId);
 
-            if (selectedGenreId == -1)
-            {
-                movies = _movieService.GetPaged(page, pageSize);
-            }
-            else
-            {
-                movies = _movieService.GetPagedByGenre(page, pageSize, selectedGenreId);
-            }
-
-            var genres = _genreService.GetAll();
-            int totalPages = (int) Math.Ceiling((double)_movieService.GetTotalCount() / pageSize);
             MoviesAndGenresViewModel model = new MoviesAndGenresViewModel()
             {
-                Movies = movies,
-                Genres = genres,
-                TotalPage = totalPages,
+                Movies = modelDto.Movies,
+                Genres = modelDto.Genres,
+                TotalPage = modelDto.TotalPage,
                 CurrentPage = page,
                 SelectedGenreId = selectedGenreId
             };
 
             return View(model);
         }
+
+        public IActionResult Details(int id)
+        {
+            // Fetch movie details from the service
+            var movieDetailsDto = _movieService.GetMovieDetails(id);
+
+            if (movieDetailsDto == null)
+            {
+                // Handle not found (return 404 or redirect to a "Not Found" page)
+                return NotFound();
+            }
+
+            // Map DTO to ViewModel
+            var viewModel = new MovieDetailsViewModel
+            {
+                Id = movieDetailsDto.Id,
+                Title = movieDetailsDto.Title,
+                Overview = movieDetailsDto.Overview,
+                Tagline = movieDetailsDto.Tagline,
+                PosterUrl = movieDetailsDto.PosterUrl,
+                BackdropUrl = movieDetailsDto.BackdropUrl,
+                Budget = movieDetailsDto.Budget,
+                Revenue = movieDetailsDto.Revenue,
+                RunTime = movieDetailsDto.RunTime,
+                ReleaseDate = movieDetailsDto.ReleaseDate,
+                ImdbUrl = movieDetailsDto.ImdbUrl,
+                TmdbUrl = movieDetailsDto.TmdbUrl,
+                Genres = movieDetailsDto.Genres,
+                Casts = movieDetailsDto.Casts.Select(c => new CastViewModel
+                {
+                    Id = c.Id, 
+                    Name = c.Name,
+                    ProfilePath = c.ProfilePath,
+                    Character = c.Character
+                }),
+                Trailers = movieDetailsDto.Trailers.Select(t => new TrailerViewModel
+                {
+                    Name = t.Name,
+                    TrailerUrl = t.TrailerUrl
+                })
+            };
+
+            return View(viewModel);
+        }
+
     }
 }

@@ -2,7 +2,11 @@
   "Files": [
     {
       "Id": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MovieShop.bundle.scp.css",
-      "PackagePath": "staticwebassets\\MovieShop.y1rjeapg19.bundle.scp.css"
+      "PackagePath": "staticwebassets\\MovieShop.9od3wugw39.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\wwwroot\\css\\general.css",
+      "PackagePath": "staticwebassets\\css\\general.css"
     },
     {
       "Id": "C:\\Users\\runka\\OneDrive\\Desktop\\MovieShop\\MovieShop\\wwwroot\\css\\site.css",

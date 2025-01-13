@@ -15,3 +15,4 @@ C:\Users\runka\OneDrive\Desktop\MovieShop\Infrastructure\obj\Debug\net8.0\refint
 C:\Users\runka\OneDrive\Desktop\MovieShop\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 C:\Users\runka\OneDrive\Desktop\MovieShop\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
 C:\Users\runka\OneDrive\Desktop\MovieShop\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\runka\OneDrive\Desktop\MovieShop\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json

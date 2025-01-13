@@ -7,10 +7,12 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/MovieShop.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/general.css" asp-append-version="true" />
+
 </head>
 <body>
-    
-    <div class="container">
+    <partial name="_Header" />
+    <div id ="outer-container"class="container">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>

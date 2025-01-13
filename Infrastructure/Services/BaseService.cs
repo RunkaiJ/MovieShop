@@ -15,6 +15,8 @@ namespace Infrastructure.Services
         public BaseService(IRepository<T> repository) { 
             _repository = repository;
         }
+
+
         public int Delete(int id)
         {
             return _repository.Delete(id);
